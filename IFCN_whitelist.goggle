@@ -7,7 +7,6 @@
 $discard
 
 ! The Whitelist
-$boost,site=example.com
 $boost,site=aap.com.au
 $boost,site=africacheck.org
 $boost,site=agenciaocote.com
